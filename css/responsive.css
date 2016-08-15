@@ -1,0 +1,138 @@
+
+/* resposive del header*/
+@media (min-width: 768px){
+	.navbar-default {
+    background-color: transparent;
+    border-color: transparent;
+    }
+    .navbar-default .navbar-brand {
+    color: rgb(255,255,255);
+    }
+    .navbar-default .navbar-nav>.active>a, 
+    .navbar-default .navbar-nav>.active>a:focus, 
+    .navbar-default .navbar-nav>.active>a:hover {
+    	background-color:transparent;
+    }
+    .navbar-default .navbar-nav>.active>a{
+    	color: white;
+    }
+    .header{
+    height: 500px;
+    }
+}
+@media (min-width: 1200px){
+	.header{
+    height: 550px;
+    }
+    .container{
+    	width: 600px;
+    	margin-top: 130px;
+    }
+    .container h1{
+	font-size: 35px;
+	margin: 20px;
+    }
+}
+/*resposive section sub-menu*/
+@media (min-width: 200px){
+    .menu .navbar-default {
+    background-color: transparent;
+    border-color: transparent;
+    }
+    .menu .navbar-default .navbar-brand{
+    margin-top: -30px;
+    color:transparent; 
+    }
+    .menu .navbar-default .navbar-brand:hover{
+    color:transparent;
+    cursor:none;
+    }
+}
+/*resposive section sub-menu*/
+@media (min-width: 768px){
+    .menu .navbar-default .navbar-nav>.active>a{
+    margin-top: -30px;
+    color: transparent;
+
+    }
+    .menu .navbar-default .navbar-nav>.active>a:hover{
+    color:transparent;
+    cursor: none;
+    }
+@media (min-width: 1200px){
+    .menu .navbar-default {
+    background-color:rgb(242,117,90);
+    border-color: rgb(242,117,90);
+    }
+    .menu .navbar-default .navbar-brand {
+    color: rgb(240,95,64);
+    margin-top: 5px;
+    }
+    .menu .navbar-default .navbar-brand:hover{
+    color:rgb(255,255,255);
+    cursor:pointer;
+    }
+    .menu .navbar-default .navbar-nav>.active>a{
+    color: rgb(240,95,64);
+    margin-top: 5px;
+    }
+    .menu .navbar-default .navbar-nav>.active>a:hover{
+    color: rgb(255,255,255);
+    }
+}
+/*section contenido1*/
+@media (min-width: 768px){
+    .contenido1{
+    margin-top: -130px;
+    }
+    .contenido1 .container{
+    padding-top: 40px;
+    }
+}
+/*section servicios*/
+@media (min-width: 200px){
+    .servicios{
+        margin-top: 70px;
+    }
+}
+@media (min-width: 768px){
+    .servicios{
+        height: 300px;
+    }
+   .servicios h3{
+   margin-top: 40px;
+   }
+
+}
+/*section gallery*/
+@media (min-width: 768px) {
+  .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category {
+    font-size: 16px;
+  }
+  .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
+    font-size: 22px;
+  }
+}
+.call-to-action h2 {
+  margin: 0 auto 20px;
+}
+.text-primary {
+  color: #F05F40;
+}
+.no-gutter > [class*='col-'] {
+  padding-right: 0;
+  padding-left: 0;
+}
+
+/*section git*/
+@media (min-width: 768px){
+    .git p{
+        margin-top: -100px;
+    }
+}
+/*footer*/
+@media (min-width: 768px){
+    .footer{
+        margin-top: -100px;
+    }
+}

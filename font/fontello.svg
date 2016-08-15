@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2016 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="heart" unicode="&#xe800;" d="M500-79q-14 0-25 10l-348 336q-5 5-15 15t-31 37-38 54-30 67-13 77q0 123 71 192t196 70q34 0 70-12t67-33 54-38 42-38q20 20 42 38t54 38 67 33 70 12q125 0 196-70t71-192q0-123-128-251l-347-335q-10-10-25-10z" horiz-adv-x="1000" />
+
+<glyph glyph-name="phone" unicode="&#xe801;" d="M0 615q0 50 28 76l138 138q45 37 77-13l113-211q18-39-14-71l-51-52q-5-6-5-14 25-98 132-195l31-30t36-34 34-26 41-25 40-14q20-6 27 2l61 60q39 30 72 12l203-121q22-14 25-37t-13-39l-141-139q-27-27-74-27-140 4-318 121-258 185-375 406-72 151-67 233z" horiz-adv-x="988" />
+
+<glyph glyph-name="mail" unicode="&#xe802;" d="M30 586q-32 18-28 40 2 14 26 14l846 0q38 0 20-32-8-14-24-22-14-6-192-102t-182-98q-16-10-46-10-28 0-46 10-4 2-182 98t-192 102z m850-100q20 10 20-10l0-368q0-16-17-32t-33-16l-800 0q-16 0-33 16t-17 32l0 368q0 20 20 10l384-200q18-10 46-10t46 10z" horiz-adv-x="900" />
+
+<glyph glyph-name="paper-plane" unicode="&#xf1d8;" d="M984 844q19-13 15-36l-142-857q-3-16-18-25-8-5-18-5-6 0-13 3l-253 104-135-165q-10-13-27-13-7 0-12 2-11 4-17 13t-7 21v195l482 590-596-516-221 91q-20 8-22 30-1 23 18 33l928 536q9 5 18 5 11 0 20-6z" horiz-adv-x="1000" />
+
+<glyph glyph-name="newspaper" unicode="&#xf1ea;" d="M571 564h-214v-214h214v214z m72-357v-71h-357v71h357z m0 429v-357h-357v357h357z m357-429v-71h-286v71h286z m0 143v-71h-286v71h286z m0 143v-72h-286v72h286z m0 143v-72h-286v72h286z m-857-536v536h-72v-536q0-14 11-25t25-11 25 11 11 25z m928 0v607h-857v-607q0-18-6-36h828q14 0 25 11t10 25z m72 679v-679q0-45-31-76t-76-31h-929q-44 0-76 31t-31 76v607h143v72h1000z" horiz-adv-x="1142.9" />
+
+<glyph glyph-name="diamond" unicode="&#xf219;" d="M118 421l348-371-167 371h-181z m453-430l195 430h-389z m-271 502l114 214h-146l-161-214h193z m377-443l348 371h-181z m-296 443h381l-114 214h-153z m462 0h193l-161 214h-146z m78 271l215-286q7-10 7-23t-10-22l-535-572q-10-11-27-11t-26 11l-535 572q-9 9-10 22t7 23l215 286q10 15 28 15h643q18 0 28-15z" horiz-adv-x="1142.9" />
+</font>
+</defs>
+</svg>
